@@ -12,7 +12,7 @@ Este proyecto permite automatizar la lectura de un archivo Excel, procesar los d
 
 1. Clona este repositorio en tu máquina local:
  
-   git clone https://github.com/usuario/proyecto-django.git
+   git clone https://github.com/usuario/proyecto-django.git](https://github.com/TecnoparqueRionegroLineaVirtuales/apialagro/ 
    cd agro
 
 2. Crea y activa un entorno virtual:
